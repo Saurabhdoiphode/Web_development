@@ -3,6 +3,7 @@
 A clean, user-friendly website for an Organic Fruit Store, built to showcase fresh, organic produce with smooth navigation and responsive design. This project aims to promote healthy living through easy access to natural and chemical-free fruits.
 
 🌿 Features
+
 🍊 Homepage with a modern layout and product highlights
 
 🛒 Product catalog with images, prices, and descriptions
@@ -18,9 +19,8 @@ A clean, user-friendly website for an Organic Fruit Store, built to showcase fre
 🛠️ Tech Stack
 (Customize this section based on what you used — here’s a sample stack)
 
-Frontend: HTML5, CSS3, JavaScript
+Frontend: HTML 
 
-Frameworks/Libraries: Bootstrap / Tailwind / React (if used)
 
 Backend: Node.js / PHP / Firebase (if applicable)
 
